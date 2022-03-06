@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da4315ba-70fe-468d-8f7e-b96183f903d5": {
+      "ProjectGuid": "da4315ba-70fe-468d-8f7e-b96183f903d5",
+      "DisplayName": "MinimalCRUDWebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
