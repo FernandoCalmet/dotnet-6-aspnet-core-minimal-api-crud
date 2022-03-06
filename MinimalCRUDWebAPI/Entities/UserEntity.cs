@@ -1,6 +1,6 @@
-﻿namespace MinimalCRUDWebAPI.Models
+﻿namespace MinimalCRUDWebAPI.Entities
 {
-    public class UserModel
+    public class UserEntity
     {
         public int Id { get; set; }
         public string? FirstName { get; set; }

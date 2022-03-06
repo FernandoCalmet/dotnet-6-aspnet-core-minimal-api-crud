@@ -1,5 +1,5 @@
 ﻿global using Microsoft.EntityFrameworkCore;
-using MinimalCRUDWebAPI.Models;
+using MinimalCRUDWebAPI.Entities;
 
 namespace MinimalCRUDWebAPI.Persistence
 {
@@ -9,6 +9,6 @@ namespace MinimalCRUDWebAPI.Persistence
         {
         }
 
-        public DbSet<UserModel> Users => Set<UserModel>();
+        public DbSet<UserEntity> Users => Set<UserEntity>();
     }
 }
