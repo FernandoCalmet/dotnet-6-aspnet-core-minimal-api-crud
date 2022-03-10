@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IHS7owcXQwydFvwI9iko/2NLlW1vclAN/s861AOGGjbKUKoXirtQvGnbBHlHooRaA4+Bu0dJrcfkkaU+jDjhHQ==",
+  "dgSpecHash": "Niiauf6MsZEAPUDBTEGKoVblLZsXm4PE+FyhvsCk74WyK/F5TOjL23HpOam3QHkbp8/hJFsQlvizUYTfvdA3/w==",
   "success": true,
-  "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-Minimal-API-CRUD\\MinimalCRUDWebAPI\\MinimalCRUDWebAPI.csproj",
+  "projectFilePath": "D:\\Github\\FernandoCalmet\\DOTNET-6-ASPNET-Core-Minimal-API-CRUD\\MinimalCRUDWebAPI\\MinimalCRUDWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I7\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

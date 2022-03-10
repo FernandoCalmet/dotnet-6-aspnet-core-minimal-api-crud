@@ -2518,11 +2518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-Minimal-API-CRUD\\MinimalCRUDWebAPI\\MinimalCRUDWebAPI.csproj",
+      "projectUniqueName": "D:\\Github\\FernandoCalmet\\DOTNET-6-ASPNET-Core-Minimal-API-CRUD\\MinimalCRUDWebAPI\\MinimalCRUDWebAPI.csproj",
       "projectName": "MinimalCRUDWebAPI",
-      "projectPath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-Minimal-API-CRUD\\MinimalCRUDWebAPI\\MinimalCRUDWebAPI.csproj",
+      "projectPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-ASPNET-Core-Minimal-API-CRUD\\MinimalCRUDWebAPI\\MinimalCRUDWebAPI.csproj",
       "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-Minimal-API-CRUD\\MinimalCRUDWebAPI\\obj\\",
+      "outputPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-ASPNET-Core-Minimal-API-CRUD\\MinimalCRUDWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
