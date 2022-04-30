@@ -21,7 +21,7 @@ Este proyecto es una muestra de una solución base de una API minimal CRUD. Se u
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/CS-ASPNET-Core-Minimal-API-CRUD
+gh repo clone FernandoCalmet/dotnet-6-aspnet-core-minimal-api-crud
 ```
 
 Migrar base de datos.
